@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LhJhX8lAo0=",
+  "success": true,
+  "projectFilePath": "D:\\Prog\\estudosNovembro\\dataExplorer\\dataExplorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.0\\system.diagnostics.performancecounter.9.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
